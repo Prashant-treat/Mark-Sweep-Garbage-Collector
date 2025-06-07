@@ -1,6 +1,3 @@
-Absolutely! Here's a well-structured and beginner-friendly `README.md` for your **Mark-and-Sweep Garbage Collector** project in C. This assumes you're building an educational or experimental memory management system that demonstrates garbage collection using frames and objects like strings, integers, and vectors.
-
----
 
 ## 📦 Mark-and-Sweep Garbage Collector in C
 
